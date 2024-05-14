@@ -10,5 +10,4 @@ print_r($new);
 echo "</pre>"; //replace
 ?>
 
-
 //in next file you will see all the methods in array as in text file because cover all methods is so lengthy.......
