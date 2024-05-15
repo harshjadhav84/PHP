@@ -1,0 +1,60 @@
+| Function       | Description                                                                                      |
+|----------------|--------------------------------------------------------------------------------------------------|
+| abs()          | Returns the absolute (positive) value of a number                                                |
+| acos()         | Returns the arc cosine of a number                                                               |
+| acosh()        | Returns the inverse hyperbolic cosine of a number                                                |
+| asin()         | Returns the arc sine of a number                                                                 |
+| asinh()        | Returns the inverse hyperbolic sine of a number                                                  |
+| atan()         | Returns the arc tangent of a number in radians                                                   |
+| atan2()        | Returns the arc tangent of two variables x and y                                                 |
+| atanh()        | Returns the inverse hyperbolic tangent of a number                                                |
+| base_convert() | Converts a number from one number base to another                                                 |
+| bindec()       | Converts a binary number to a decimal number                                                     |
+| ceil()         | Rounds a number up to the nearest integer                                                        |
+| cos()          | Returns the cosine of a number                                                                   |
+| cosh()         | Returns the hyperbolic cosine of a number                                                        |
+| decbin()       | Converts a decimal number to a binary number                                                     |
+| dechex()       | Converts a decimal number to a hexadecimal number                                                 |
+| decoct()       | Converts a decimal number to an octal number                                                     |
+| deg2rad()      | Converts a degree value to a radian value                                                        |
+| exp()          | Calculates the exponent of e                                                                     |
+| expm1()        | Returns exp(x) - 1                                                                               |
+| floor()        | Rounds a number down to the nearest integer                                                      |
+| fmod()         | Returns the remainder of x/y                                                                     |
+| getrandmax()   | Returns the largest possible value returned by rand()                                             |
+| hexdec()       | Converts a hexadecimal number to a decimal number                                                |
+
+| decoct()     | Converts decimal to octal                                |
+| deg2rad()    | Converts degree to radian                                |
+| exp()        | Calculates e raised to the power of a number             |
+| expm1()      | Calculates e raised to the power of a number minus 1     |
+| floor()      | Rounds down to the nearest integer                       |
+| fmod()       | Returns the remainder of division of two numbers         |
+| getrandmax() | Returns the largest value returned by rand()             |
+| hexdec()     | Converts hexadecimal to decimal                         |
+| hypot()      | Calculates the length of the hypotenuse of a right triangle |
+| intdiv()     | Performs integer division                                |
+| is_finite()  | Checks if a value is finite                              |
+| is_infinite()| Checks if a value is infinite                            |
+| is_nan()     | Checks if a value is not-a-number                        |
+| lcg_value()  | Generates a random number between 0 and 1                |
+| log()        | Calculates the natural logarithm of a number             |
+| log10()      | Calculates the base-10 logarithm of a number             |
+| log1p()      | Calculates the natural logarithm of 1 plus a number      |
+| max()        | Returns the highest value in an array or list            |
+| min()        | Returns the lowest value in an array or list             |
+| mt_getrandmax() | Returns the largest value returned by mt_rand()        |
+| mt_rand()    | Generates a random integer using Mersenne Twister algorithm |
+| mt_srand()   | Seeds the Mersenne Twister random number generator      |
+| octdec()     | Converts octal to decimal                                |
+| pi()         | Returns the value of PI                                  |
+| pow()        | Raises a number to a power                               |
+| rad2deg()    | Converts radians to degrees                              |
+| rand()       | Generates a random integer between 0 and RAND_MAX        |
+| round()      | Rounds a floating-point number to the nearest integer    |
+| sin()        | Calculates the sine of a number                          |
+| sinh()       | Calculates the hyperbolic sine of a number               |
+| sqrt()       | Calculates the square root of a number                   |
+| srand()      | Seeds the random number generator                        |
+| tan()        | Calculates the tangent of a number                       |
+| tanh()       | Calculates the hyperbolic tangent of a number            |
